@@ -12,3 +12,6 @@ Collection of handy SVG tools and utilities
 
 * viewBox settings (optimizing precision)  
   [https://svg-viewbox.github.io](https://svg-viewbox.github.io)
+
+* Text to SVG &lt;path>
+  [https://text-to-svg.com/](https://text-to-svg.com/)
