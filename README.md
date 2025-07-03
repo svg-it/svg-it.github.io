@@ -15,3 +15,6 @@ Collection of handy SVG tools and utilities
 
 * Text to SVG &lt;path>
   [https://text-to-svg.com/](https://text-to-svg.com/)
+
+* SVG to CSS shapes
+  [https://css-generators.com/svg-to-css/](https://css-generators.com/svg-to-css/)
